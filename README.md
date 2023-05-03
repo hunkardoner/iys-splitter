@@ -1,5 +1,5 @@
 # iys-splitter
-IYS (ileti yönetim sistemi) için büyük
+IYS (ileti yönetim sistemi) için büyük e-posta listelerinizi çoklu yükleme alanına uygun hale getiren bash dosyası.
 
 IYS için hazırlanmış örnek bir liste "iys-ornek-tacir.csv" olarak eklenmiştir. Bu dosya üzerinde mail listenizi EPOSTA'ların olduğu alanla değiştirebilirsiniz. Sonrasında yapmanız gereken tarih kısmını günümüzden maksimum 2 gün öncesi olarak belirtmelisiniz.
 
